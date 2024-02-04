@@ -1,0 +1,22 @@
+/*
+- Painel de adminstração PHP/Mysql e Ajax - 
+//
+// Criado por Márcio Dutra
+// Contato: professormarciodutra@gmail.com
+// Criado em 2024
+//
+*/
+- Painel de adminstração PHP/Mysql e Ajax - 
+
+Todas as Páginas são carregadas coma Ajax!
+Suporte a cadastro de pessoas físicas e jurídicas!
+
+- Instalação -
+1º configure o arquivo config.php que está na pasta "includes" 
+2º faça o upload para seu servidor , do arquivo "painel2.sql"
+
+senha padrão:
+usuário:admin
+senha:pedro123
+
+se divirta para mais dúvidas me add no facebook e faça contato via email!
